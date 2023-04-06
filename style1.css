@@ -284,7 +284,7 @@ body{
     height: auto;
     width: 60px;
     border-radius: 50%;
-    margin-top: 250px;
+    margin-top: 220px;
     margin-bottom: 50px;
 }
 .m1 > p{
@@ -303,7 +303,7 @@ body{
     margin-bottom: 120px;
 }
 .m1 > h3{
-    margin-top: 150px;
+    margin-top: 0px;
     letter-spacing: 5px;
     font-family: var(--font-family1);
     color: var(--Grayish-blue);
